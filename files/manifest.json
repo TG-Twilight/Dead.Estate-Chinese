@@ -5,19 +5,19 @@
  "langs": {
   "zh_tw": {
    "file": "zh_tw.xdelta",
-   "sha256": "5ff4e32a5cdbaaac6cc6a6dfa38387242d68358e3e0ca5b85b32b5a237bd8e2f"
+   "sha256": "9a924e757751c31a1d4181b0af740b3ee0d0099e70882e0ad181807a0bc74845"
   },
   "zh_tw_pure": {
    "file": "zh_tw_pure.xdelta",
-   "sha256": "71b6a66623b12947a3255016ccae63cee3e6c6c88a5a3629929e59ca633dd08d"
+   "sha256": "7ab1b719cfca6eda68d4ade34f2873e769ba2f8325ef5f066f10620ea9b745af"
   },
   "zh_cn": {
    "file": "zh_cn.xdelta",
-   "sha256": "7aac79532fa0e3a6622e1c84fe635742d41f45e5288ca50fe1f47a2a6ad87821"
+   "sha256": "6fe0ffbc1f477d4372ff621233c0edc216956dc89ab10d2a6e21408f1b752cfe"
   },
   "zh_cn_pure": {
    "file": "zh_cn_pure.xdelta",
-   "sha256": "d290121caf11f0b6c4b129575dfce1b875cbf930cffce48e613527ffd5bbd24f"
+   "sha256": "7855f5a1ad794cdec69486a0ef295690cefcb11053612808df3df0d983a2d3f0"
   }
  }
 }
