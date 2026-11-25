@@ -1,0 +1,23 @@
+{
+ "patch_version": "1.2.8",
+ "game_version": "1.7.8",
+ "orig_sha256": "038a636ce7d1b3d677a4ff5a317f5f522bf5cc31d86b0024a601ea0d2e4d119e",
+ "langs": {
+  "zh_tw": {
+   "file": "zh_tw.xdelta",
+   "sha256": "5ff4e32a5cdbaaac6cc6a6dfa38387242d68358e3e0ca5b85b32b5a237bd8e2f"
+  },
+  "zh_tw_pure": {
+   "file": "zh_tw_pure.xdelta",
+   "sha256": "71b6a66623b12947a3255016ccae63cee3e6c6c88a5a3629929e59ca633dd08d"
+  },
+  "zh_cn": {
+   "file": "zh_cn.xdelta",
+   "sha256": "7aac79532fa0e3a6622e1c84fe635742d41f45e5288ca50fe1f47a2a6ad87821"
+  },
+  "zh_cn_pure": {
+   "file": "zh_cn_pure.xdelta",
+   "sha256": "d290121caf11f0b6c4b129575dfce1b875cbf930cffce48e613527ffd5bbd24f"
+  }
+ }
+}

@@ -1,0 +1,6 @@
+*.bat binary
+*.ps1 binary
+*.txt binary
+*.xdelta binary
+*.exe binary
+*.json binary

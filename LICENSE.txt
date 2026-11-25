@@ -1,0 +1,24 @@
+﻿Dead Estate Chinese Patch
+Copyright (c) 2026 TG-Twilight
+https://github.com/TG-Twilight/Dead.Estate-Chinese
+
+The translation and modifications contained in this patch are licensed under the
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
+(CC BY-NC-ND 4.0). https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+You may share this patch free of charge, provided that you credit the author and link
+to the release page above. You may NOT use it for commercial purposes (including selling
+it, charging for downloads, or charging for installation), and you may NOT distribute
+modified versions.
+
+This patch does not contain the game itself. Dead Estate is the property of its developer
+and publisher. A legally purchased copy of the game is required.
+
+Third-party components are distributed under their own licenses (see the licenses folder):
+- Ark Pixel Font / Fusion Pixel Font: SIL Open Font License 1.1
+- xdelta3 3.1.0: GNU General Public License v2 (source: https://github.com/jmacd/xdelta-gpl)
+
+---
+
+本補丁的譯文與修改內容採用 CC BY-NC-ND 4.0（姓名標示—非商業性—禁止改作 4.0 國際）授權。
+可免費轉載，但須標明作者與發佈頁；禁止任何商業用途（含販售、付費下載、收費代裝）；禁止修改後再散布。
