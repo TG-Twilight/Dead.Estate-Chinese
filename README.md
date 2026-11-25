@@ -1,4 +1,4 @@
-# Dead Estate 中文化补丁
+# Dead Estate（死亡庄园）中文补丁
 
 **简体中文** | [繁體中文](README.zh-TW.md)
 
