@@ -1,4 +1,4 @@
-# Dead Estate 中文化補丁
+# Dead Estate（死亡莊園）中文補丁
 
 [简体中文](README.md) | **繁體中文**
 
@@ -109,9 +109,7 @@ Steam 版《Dead Estate》的非官方中文化補丁，含簡體與繁體，對
 ## 小彩蛋
 
 - 商店的店員偶爾會提醒你一些事情。
-- 穢物之間的馬桶似乎很崇拜某位坐在黃金王座上的帝皇。據說一口氣把它的東西全買光，會有好事發生。
-
-這兩項純中文版也有。
+- 穢物之間的馬桶似乎很崇拜某位坐在黃金王座上的帝皇。據說一口氣把它的東西全買光，會有神奇的事發生。
 
 <p align="center">
   <img src="images/golden-throne.avif" width="70%" alt="黃金王座">
@@ -144,6 +142,6 @@ Steam 版《Dead Estate》的非官方中文化補丁，含簡體與繁體，對
 
 ## 授權
 
-補丁內容採用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant) 授權：可免費轉載，須標明作者與出處；禁止商業用途（包括販售與收費代裝）及修改後再散布。
+補丁內容採用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant) 授權：**可免費轉載，須標明作者與出處（即本GitHub專案地址）；禁止商業用途（包括販售與收費代裝）及修改後再散布**。
 
 本專案為非官方補丁，與遊戲開發商、發行商無關，請支持正版。
