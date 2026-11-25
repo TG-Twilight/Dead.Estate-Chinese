@@ -2,6 +2,10 @@
 
 [简体中文](README.md) | **繁體中文**
 
+<p align="center">
+  <img src="images/cover.avif" width="100%" alt="主選單">
+</p>
+
 Steam 版《Dead Estate》的非官方中文化補丁，含簡體與繁體，對應遊戲版本 v1.7.8。
 
 除了完整翻譯，補丁還附帶一套可選的輔助功能（鎖血、無限金錢、傷害倍率、地圖全開等），以及幾個只有中文版才有的小彩蛋。不想要這些的話，安裝時選「純中文版」即可，遊戲裡不會出現任何額外的程式碼或選項。
@@ -35,6 +39,15 @@ Steam 版《Dead Estate》的非官方中文化補丁，含簡體與繁體，對
 - 道具、武器、成就等專有名詞在名稱處寫作「中文（English）」，方便對照英文攻略；句子裡只寫中文。人名、按鍵名稱保留英文。
 - 簡體版由繁體版轉換後再按大陸用語修正（例如「设置」「鼠标」「存档」）。
 
+<p align="center">
+  <img src="images/story.avif" width="49%" alt="劇情過場">
+  <img src="images/gameplay.avif" width="49%" alt="遊戲畫面">
+</p>
+<p align="center">
+  <img src="images/character-select.avif" width="49%" alt="角色選擇">
+  <img src="images/costume-select.avif" width="49%" alt="服裝選擇">
+</p>
+
 ## 字型與介面
 
 - 中文字形採用[方舟像素字體](https://github.com/TakWolf/ark-pixel-font) 12px，缺字由[縫合像素字體](https://github.com/TakWolf/fusion-pixel-font)補齊，與原作像素畫風一致；原版英文字形完全不變。
@@ -47,6 +60,11 @@ Steam 版《Dead Estate》的非官方中文化補丁，含簡體與繁體，對
 ## 輔助功能（可選）
 
 安裝時選擇安裝輔助功能後，在遊戲內「設定 → 輔助功能」開啟。所有選項預設關閉，設定會自動儲存。
+
+<p align="center">
+  <img src="images/settings.avif" width="49%" alt="設定選單">
+  <img src="images/assist-menu.avif" width="49%" alt="輔助功能">
+</p>
 
 | 頁面 | 選項 | 作用 |
 |---|---|---|
@@ -82,12 +100,22 @@ Steam 版《Dead Estate》的非官方中文化補丁，含簡體與繁體，對
 
 純屬娛樂，不影響遊戲。
 
+<p align="center">
+  <img src="images/love-and-peace.avif" width="32%" alt="愛與和平">
+  <img src="images/love-and-peace-2.avif" width="32%" alt="愛與和平">
+  <img src="images/shop-balcony.avif" width="32%" alt="陽台商店">
+</p>
+
 ## 小彩蛋
 
 - 商店的店員偶爾會提醒你一些事情。
 - 穢物之間的馬桶似乎很崇拜某位坐在黃金王座上的帝皇。據說一口氣把它的東西全買光，會有好事發生。
 
 這兩項純中文版也有。
+
+<p align="center">
+  <img src="images/golden-throne.avif" width="70%" alt="黃金王座">
+</p>
 
 ## 檔案說明
 
@@ -100,6 +128,7 @@ Steam 版《Dead Estate》的非官方中文化補丁，含簡體與繁體，對
 | `files/install.ps1` | 安裝邏輯（PowerShell） |
 | `files/xdelta3.exe` | 差分工具 [xdelta3](https://github.com/jmacd/xdelta-gpl) |
 | `說明.txt`、`LICENSE.txt`、`licenses/` | 說明、授權摘要、第三方授權 |
+| `images/` | README 截圖 |
 
 ## 回報問題
 

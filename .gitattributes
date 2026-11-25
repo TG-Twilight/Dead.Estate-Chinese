@@ -4,3 +4,4 @@
 *.xdelta binary
 *.exe binary
 *.json binary
+*.avif binary
