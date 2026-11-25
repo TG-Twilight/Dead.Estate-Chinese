@@ -3,6 +3,10 @@
 **简体中文** | [繁體中文](README.zh-TW.md)
 
 <p align="center">
+  <a href="https://afdian.com/a/AdsRule"><img src="images/sponsor-zh-cn.png" alt="在爱发电赞助作者"></a>
+</p>
+
+<p align="center">
   <img src="images/cover.avif" width="100%" alt="主菜单">
 </p>
 

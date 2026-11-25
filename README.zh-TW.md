@@ -3,6 +3,10 @@
 [简体中文](README.md) | **繁體中文**
 
 <p align="center">
+  <a href="https://afdian.com/a/AdsRule"><img src="images/sponsor-zh-tw.png" alt="在愛發電贊助作者"></a>
+</p>
+
+<p align="center">
   <img src="images/cover.avif" width="100%" alt="主選單">
 </p>
 
